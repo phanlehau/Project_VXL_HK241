@@ -1,0 +1,2 @@
+../Core/Src/fsm_manual.c:6:6:init_manual	8	static
+../Core/Src/fsm_manual.c:26:6:fsm_manual	8	static
